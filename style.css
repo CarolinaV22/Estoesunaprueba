@@ -1,0 +1,49 @@
+.menu{
+    font-family: 'Young Serif', serif;
+    text-align: left;
+    background-color:cadetblue;
+    color: black;
+    margin: 0%;
+    padding: 70px;
+    text-emphasis: none;
+
+}
+.inicio{
+    font-family: 'Young Serif', serif;
+    background-color:black;
+    color: cadetblue;
+    text-align: center;
+    margin: 0%;
+    background-size:cover;
+    padding-bottom: 30px;
+}
+.recetas{
+    font-family: 'Young Serif', serif;
+    background-color: black;
+    color: cadetblue;
+    margin: 0%;
+    padding: 10px;
+    text-align: center;
+    }
+.acercade{
+    font-family: 'Young Serif', serif;
+    background-color: black;
+    color: cadetblue;
+    margin: 0%;
+    padding: 10px;
+    text-align: center;
+}
+.footer{
+    font-family: 'Young Serif', serif;
+    text-align: left;
+    color:black;
+    background-color: cadetblue;
+    margin: 0%;
+    padding: 30px;
+}
+.copy{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: cadetblue;
+    color: white;
+    margin: 0%;
+}
