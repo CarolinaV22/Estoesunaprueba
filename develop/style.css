@@ -1,0 +1,134 @@
+/* INICIO HEADER */
+header {
+    background: linear-gradient(45deg, #87CEEB, #FFC0CB); 
+    text-align: center;
+    padding: 40px 0;
+    position: relative;
+    background-image: url('https://www.hogar.mapfre.es/media/2017/02/tarta-de-la-abuela.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.header-content {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    z-index: 1;
+}
+
+/* INICIO BIENVENIDA */
+.bienvenida {
+    background: linear-gradient(45deg, #87CEEB, #FFC0CB); 
+    color: #333;
+    text-align: center;
+    padding: 40px;
+    border-radius: 15px;
+    font-family: 'Dancing Script', cursive;
+    margin-top: 40px;
+}
+
+.bienvenida h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.bienvenida p {
+    font-size: 1.2em;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+/* INICIO RECETAS*/
+
+.receta-container {
+    background: linear-gradient(45deg, #87CEEB, #FFC0CB); 
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.5s;
+    cursor: pointer;
+}
+
+.receta-container:hover {
+    transform: scale(1.05);
+}
+
+.receta-image {
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.receta-description{
+    font-size: 2.5em;
+    color: #000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    padding: 10px;
+    border-radius: 5px;
+    color: #333;
+}
+
+
+.receta-instrucciones {
+    font-size: 1.2em;
+    color: #000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    padding: 10px;
+    border-radius: 5px;
+    color: #333;
+}
+
+/* INICIO ACERCA DE NOSOTROS*/
+
+.acercadetitulo{
+    font-size: 2.5em;
+    background: linear-gradient(45deg, #87CEEB, #FFC0CB); 
+    color: #333;
+    text-align: center;
+    padding: 40px;
+    border-radius: 15px;
+    font-family: 'Dancing Script', cursive;
+    margin-top: 40px;
+}
+.acercade {
+    background: linear-gradient(45deg, #87CEEB, #FFC0CB); 
+    color: #333;
+    text-align: center;
+    padding: 40px;
+    border-radius: 15px;
+    font-family: 'Dancing Script', cursive;
+    margin-top: 40px;
+}
+
+/* INICIO FOOTER */
+.footer {
+    background: linear-gradient(45deg, #87CEEB, #FFC0CB); 
+    padding: 10px;
+    text-align: center;
+    color: #333;
+    font-size: 0.8em;
+}
+
+.contact-info h4,
+.contact-info p {
+    color: #333;
+}
+
+.social-media {
+    margin-top: 10px;
+}
+
+.social-link {
+    font-size: 1.5em;
+    color: #333;
+    margin: 0 10px;
+}
